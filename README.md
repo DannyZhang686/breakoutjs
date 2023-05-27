@@ -12,4 +12,4 @@ npm install http-server -g
 http-server -a localhost -p 8080 --cors
 ```
 
-In main.js, set ASSETS_BASE_URL to the address of your server, and view index.html in your preferred browser to play the game.
+Then, in `js/main.js`, set `ASSETS_BASE_URL` to the address of your server, and view `index.html` in your preferred browser to play the game.
