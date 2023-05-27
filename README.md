@@ -2,6 +2,8 @@
 
 A simple breakout-like game that can be run in a browser, created using the Phaser framework.
 
+Try it out at [https://breakoutjs.vercel.app](https://breakoutjs.vercel.app)!
+
 # Running Locally
 
 Use your favourite server to serve the root of this project.
