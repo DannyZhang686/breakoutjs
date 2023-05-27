@@ -1,5 +1,5 @@
 // Constant declarations
-const ASSETS_BASE_URL = "http://localhost:8080";
+const ASSETS_BASE_URL = "https://breakoutjs.vercel.app/";
 const CANVAS_WIDTH = 800, CANVAS_HEIGHT = 600;
 
 // Game object coordinates
